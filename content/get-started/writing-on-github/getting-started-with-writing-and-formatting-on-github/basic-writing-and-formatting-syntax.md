@@ -1,3 +1,4 @@
+![r8gbii](https://github.com/github/docs/assets/100008798/14cbb519-a5b7-4cba-8a78-a69a221c1ccb)
 ---
 title: Basic writing and formatting syntax
 intro: Create sophisticated formatting for your prose and code on GitHub with simple syntax.
